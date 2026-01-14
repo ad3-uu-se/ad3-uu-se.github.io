@@ -8,6 +8,14 @@ var relearn_searchindex = [
     "uri": "/lecures/index.html"
   },
   {
+    "breadcrumb": "AD3 Homepage \u003e Lectures",
+    "content": "Slides and Topics Today we look at the end of AD2 (NP hard problems) and try to understand where the course is going to go. Today’s slides.\nReading Material CLRS4 Textbook Chapters 1-4, 14, 15, 20-24, 34",
+    "description": "Slides and Topics Today we look at the end of AD2 (NP hard problems) and try to understand where the course is going to go. Today’s slides.\nReading Material CLRS4 Textbook Chapters 1-4, 14, 15, 20-24, 34",
+    "tags": [],
+    "title": "Lecture 1",
+    "uri": "/lecures/lecture1/index.html"
+  },
+  {
     "breadcrumb": "AD3 Homepage",
     "content": "",
     "description": "",
