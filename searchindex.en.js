@@ -56,6 +56,14 @@ var relearn_searchindex = [
     "uri": "/assignments/assignment1/index.html"
   },
   {
+    "breadcrumb": "AD3 Homepage \u003e Assignments",
+    "content": "Source files for the assignment Coming Soon.\nSoftware Resources Problem 3 (Assignment 2) We recommend you use the SAT solver MiniSat. Use the DIMACS CNF format for SAT solvers, by DIMACS, the Center for Discrete Mathematics and Theoretical Computer Science.\nProblem 4 (Assignment 2) We recommend you use the SMT solver Z3 (possibly via its playground web interface) or the web interface to the SMT solver Princess. Use the https://smt-lib.org/language.shtml language for SMT solvers (tutorial; newer versions of SMT-LIB do not affect Assignment 2).",
+    "description": "Source files for the assignment Coming Soon.\nSoftware Resources Problem 3 (Assignment 2) We recommend you use the SAT solver MiniSat. Use the DIMACS CNF format for SAT solvers, by DIMACS, the Center for Discrete Mathematics and Theoretical Computer Science.",
+    "tags": [],
+    "title": "Assignment 2",
+    "uri": "/assignments/assignment2/index.html"
+  },
+  {
     "breadcrumb": "AD3 Homepage",
     "content": "",
     "description": "",
