@@ -33,8 +33,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "AD3 Homepage \u003e Lectures",
-    "content": "Slides and Topics Today we look at Stochastic Local Search. The material is relevant for problem 2 of Assignment 1.\nThe slides will be available soon. Reading Material Again the book does not cover Stochastic local search. The slides should contain enough material to complete the assignment. but you can look at Coursera course Solving Algorithms for Discrete Optimisation. The book Stochastic Local Search is a good general reference.",
-    "description": "Slides and Topics Today we look at Stochastic Local Search. The material is relevant for problem 2 of Assignment 1.\nThe slides will be available soon. Reading Material Again the book does not cover Stochastic local search. The slides should contain enough material to complete the assignment. but you can look at Coursera course Solving Algorithms for Discrete Optimisation. The book Stochastic Local Search is a good general reference.",
+    "content": "Slides and Topics Today we look at Stochastic Local Search. The material is relevant for problem 2 of Assignment 1.\nslides. Reading Material Again the book does not cover Stochastic local search. The slides should contain enough material to complete the assignment. but you can look at Coursera course Solving Algorithms for Discrete Optimisation. The book Stochastic Local Search is a good general reference.",
+    "description": "Slides and Topics Today we look at Stochastic Local Search. The material is relevant for problem 2 of Assignment 1.\nslides. Reading Material Again the book does not cover Stochastic local search. The slides should contain enough material to complete the assignment. but you can look at Coursera course Solving Algorithms for Discrete Optimisation. The book Stochastic Local Search is a good general reference.",
     "tags": [],
     "title": "Lecture 3 ",
     "uri": "/lecures/lecture3/index.html"
