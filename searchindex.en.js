@@ -57,6 +57,14 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "AD3 Homepage \u003e Lectures",
+    "content": "Today we are going to look at polynomial time reductions between problems. We will use some of the slides from here. Exactly what we cover depends on how much time we have and what the interest of the class is. You are advised to read all of the slides and the corresponding material in the book. Chapter 34 is essential reading for both today’s lecture and Lecture 9.\nThere are two motivations for studying polynomial time reductions:\nIf I have an algorithm for one problem, then I can use it to solve other problems that on the surface seem different. To study the computational complexity of polynomial and non-deterministic problems. If I know that my problem is NP-hard, then I am very unlikely to find a polynomial time algorithm. Today we will be thinking more about the first case, and in Lecture 9 we will look more at the landscape of computational complexity.",
+    "description": "Today we are going to look at polynomial time reductions between problems. We will use some of the slides from here. Exactly what we cover depends on how much time we have and what the interest of the class is. You are advised to read all of the slides and the corresponding material in the book. Chapter 34 is essential reading for both today’s lecture and Lecture 9.\nThere are two motivations for studying polynomial time reductions:",
+    "tags": [],
+    "title": "Lecture 6",
+    "uri": "/lecures/lecture6/index.html"
+  },
+  {
+    "breadcrumb": "AD3 Homepage \u003e Lectures",
     "content": "Slides and Topics Today is a flipped lecture on SAT. This lecture will prepare you for problem 3 of assignment 2.\nWatch the following videos. The cover slides 1-29 of SAT-intro and slides 1-4 of SAT-CDCL.\nSAT1.pdf (SAT1.mp4) SAT2.pdf (SAT2.mp4) SAT3.pdf (SAT3.mp4) SAT4.pdf (SAT4.mp4) SAT5.pdf (SAT5.mp4) Reading Material The textbook does not cover SAT, but the following resources are helpful.\nBoolean satisfiability from theoretical hardness to practical success The Handbook of Satisfiability Section 2.2.2. This book is available online at the University Library. Jakob Nordström has a number of excellent tutorial videos on SAT, including PDF, video.",
     "description": "Slides and Topics Today is a flipped lecture on SAT. This lecture will prepare you for problem 3 of assignment 2.\nWatch the following videos. The cover slides 1-29 of SAT-intro and slides 1-4 of SAT-CDCL.\nSAT1.pdf (SAT1.mp4) SAT2.pdf (SAT2.mp4) SAT3.pdf (SAT3.mp4) SAT4.pdf (SAT4.mp4) SAT5.pdf (SAT5.mp4) Reading Material The textbook does not cover SAT, but the following resources are helpful.",
     "tags": [],
