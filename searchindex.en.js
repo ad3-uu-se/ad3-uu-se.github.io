@@ -57,7 +57,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "AD3 Homepage \u003e Lectures",
-    "content": "Today we are going to look at polynomial time reductions between problems. We will use some of the slides from here. Exactly what we cover depends on how much time we have and what the interest of the class is. You are advised to read all of the slides and the corresponding material in the book. Chapter 34 is essential reading for both today’s lecture and Lecture 9.\nThere are two motivations for studying polynomial time reductions:\nIf I have an algorithm for one problem, then I can use it to solve other problems that on the surface seem different. To study the computational complexity of polynomial and non-deterministic problems. If I know that my problem is NP-hard, then I am very unlikely to find a polynomial time algorithm. Today we will be thinking more about the first case, and in Lecture 9 we will look more at the landscape of computational complexity.",
+    "content": "Today we are going to look at polynomial time reductions between problems. We will use some of the slides from here. Exactly what we cover depends on how much time we have and what the interest of the class is. You are advised to read all of the slides and the corresponding material in the book. Chapter 34 is essential reading for both today’s lecture and Lecture 9.\nThere are two motivations for studying polynomial time reductions:\nIf I have an algorithm for one problem, then I can use it to solve other problems that on the surface seem different. To study the computational complexity of polynomial and non-deterministic problems. If I know that my problem is NP-hard, then I am very unlikely to find a polynomial time algorithm. Today we will be thinking more about the first case, and in Lecture 9 we will look more at the landscape of computational complexity.\nReading Material All of Chapter 34",
     "description": "Today we are going to look at polynomial time reductions between problems. We will use some of the slides from here. Exactly what we cover depends on how much time we have and what the interest of the class is. You are advised to read all of the slides and the corresponding material in the book. Chapter 34 is essential reading for both today’s lecture and Lecture 9.\nThere are two motivations for studying polynomial time reductions:",
     "tags": [],
     "title": "Lecture 6",
@@ -78,6 +78,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Lecture 8",
     "uri": "/lecures/lecture8/index.html"
+  },
+  {
+    "breadcrumb": "AD3 Homepage \u003e Lectures",
+    "content": "Today we continue on P\u0026NP. We look at the theory in more detail.\nSlides and Topics NP-Completeness II Reading Material All of Chapter 34",
+    "description": "Today we continue on P\u0026NP. We look at the theory in more detail.\nSlides and Topics NP-Completeness II Reading Material All of Chapter 34",
+    "tags": [],
+    "title": "Lecture 9",
+    "uri": "/lecures/lecture9/index.html"
   },
   {
     "breadcrumb": "AD3 Homepage",
